@@ -1,6 +1,6 @@
 # alisabot-hizmet-sartları
 
-AlviBOT 2022'da ilk olarak sadece özel birkaç sunucuya moderasyon açısından hizmet etmek için açılmıştı. Açılışının ardından o sunucularda büyük ilgi görmesiyle bot üzerinde dahada yoğunlaşılıp genel kullanıma açıldı. Genel kullanıma açıldıktan 5-6 ay sonra eğlence gibi diğer kategoriler üzerinde de çalışılıp çok amaçlı gelişmiş bir bot olma yolunda ilerledik.
+AlviBOT 2023'da ilk olarak sadece özel birkaç sunucuya moderasyon açısından hizmet etmek için açılmıştı. Açılışının ardından o sunucularda büyük ilgi görmesiyle bot üzerinde dahada yoğunlaşılıp genel kullanıma açıldı. Genel kullanıma açıldıktan 5-6 ay sonra eğlence gibi diğer kategoriler üzerinde de çalışılıp çok amaçlı gelişmiş bir bot olma yolunda ilerledik.
 
 Yıl 2022 başında geldiğimizde artık bambaşka bir şeyler yapma kararı aldık ve güvenlik ile ayarlanabilen sistemleri yayınladık! Devrim niteliğinde olan bu güncelleme aslında buralara gelmemize en çok yardımcı olan bazı şeylerdendi.
 
